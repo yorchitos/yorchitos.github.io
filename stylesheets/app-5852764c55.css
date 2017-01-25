@@ -18,12 +18,23 @@ progress{vertical-align:baseline}[hidden],template{display:none}a{background-col
   .footer{padding:75px 1rem}}
 .footer__overlay{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#000;opacity:.69}
 .footer__inner{float:left;display:block;margin-right:2.5641%;width:48.71795%;margin-left:25.64103%;text-align:center;position:relative;z-index:1}
-.footer__inner2{float:left;display:block;margin-right:2.5641%;width:48.71795%;margin-left:25.64103%;text-align:center;position:relative;z-index:1}
+
+.footer__inner2{
+  float:left;
+  display:block;
+  margin-right:2.5641%;
+  width:100%;
+  margin-left:25.64103%;
+  text-align:center;
+  position:relative;
+  z-index:1}
 
 .footer__inner:last-child{margin-right:0}@media screen and (max-width:480px){
   .footer__inner{float:left;display:block;margin-right:6.66667%;width:100%;margin-left:0}
   .footer__inner:last-child{margin-right:0}
-  .footer__inner2{float:left;display:block;margin-right:6.66667%;width:100%;margin-left:0}
+  
+  .footer__inner2{
+    float:left;display:block;margin-right:6.66667%;width:100%;margin-left:0}
   .footer__inner2:last-child{margin-right:0}
 }
 
