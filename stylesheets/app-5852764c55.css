@@ -61,10 +61,21 @@
     width:100%;
     margin-left:0
   }
+  .footer__inner2{
+    float:left;
+    display:block;
+    margin-right:2.5641%;
+    width:48.71795%;
+    margin-left:25.64103%;
+    text-align:center;
+    position:relative;
+    z-index:1
+  }
   .footer__inner:last-child{
     margin-right:0
   }
 }
+
 .footer__heading{
   font-size:22px;
   font-weight:700;
