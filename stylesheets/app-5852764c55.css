@@ -51,6 +51,7 @@ progress{vertical-align:baseline}[hidden],template{display:none}a{background-col
 
 .mio_interior{
    color:white;
+   padding: 0px 30px 0px 30px;
    margin:auto;
    width: 170px;
    display: inline-block;
@@ -60,5 +61,5 @@ progress{vertical-align:baseline}[hidden],template{display:none}a{background-col
   font-size:22px;
   font-weight:700;
   margin-bottom:10px;
-  margin-top: 30px;
+  margin-top: 60px;
 }
