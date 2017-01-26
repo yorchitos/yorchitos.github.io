@@ -51,13 +51,14 @@ progress{vertical-align:baseline}[hidden],template{display:none}a{background-col
 
 .mio_interior{
    color:white;
+  font-size:18px;
    margin:auto;
    width: 200px;
    display: inline-block;
    vertical-align: text-top;
 }
 .footer__heading_2{
-  font-size:22px;
+  font-size:20px;
   font-weight:700;
   margin-bottom:10px;
   margin-top: 60px;
