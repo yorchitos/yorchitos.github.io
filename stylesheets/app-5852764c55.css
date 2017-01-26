@@ -46,5 +46,19 @@ progress{vertical-align:baseline}[hidden],template{display:none}a{background-col
 .footer__button{
   font-size:18px;
   padding:20px 40px;border:2px solid #fff;border-radius:30px;cursor:pointer;transition:all .3s linear;display:inline-block}
-.footer__button:hover{color:#0123b4;background-color:#fff;border-color:#0123b4}
+.footer__button:hover{color:#0123b4;background-color:#fff;border-color:#0123b4
+}
 
+.mio_interior{
+   color:white;
+   margin:auto;
+   width: 170px;
+   display: inline-block;
+   vertical-align: text-top;
+}
+.footer__heading_2{
+  font-size:22px;
+  font-weight:700;
+  margin-bottom:10px;
+  margin-top: 30px;
+}
