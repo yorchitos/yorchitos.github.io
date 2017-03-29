@@ -15,7 +15,7 @@
 /* ---- Other ---- */
 /* ---- Media Queries Breakpoints ---- */
 /* ---- General ---- */
-@media (max-width: 1260px) {
+@media (max-width: 1200px) {
   .mb-sm-30 {
     margin-bottom: 30px;
   }
@@ -50,7 +50,7 @@
 }
 
 /* ---- Navigation ---- */
-@media (max-width: 1260px) {
+@media (max-width: 1200px) {
   .navbar .navbar-header {
     width: auto;
     margin-left: 0;
@@ -209,7 +209,7 @@
 }
 
 /* ---- Features ---- */
-@media (max-width: 1260px) {
+@media (max-width: 1200px) {
   .ft-cards-2 .ft-card-item {
     width: 350px;
     height: auto;
@@ -367,7 +367,7 @@
 }
 
 /* ---- Counters ---- */
-@media (max-width: 1260px) {
+@media (max-width: 1200px) {
   .circles-counters,
   .circles-counters-minimal {
     background-attachment: initial;
@@ -669,7 +669,7 @@
 }
 
 /* ---- Contact ---- */
-@media (max-width: 1260px) {
+@media (max-width: 1200px) {
   .contact-1,
   .contact-2 {
     padding-left: 0;
@@ -797,7 +797,7 @@
   }
 }
 
-@media (max-width: 1260px) {
+@media (max-width: 1200px) {
   .landing-hero .form-wrapper {
     padding-left: 35px;
     padding-right: 35px;
@@ -1049,7 +1049,7 @@
 }
 
 /* ---- Shop (eCommerce) Layout ---- */
-@media (max-width: 1260px) {
+@media (max-width: 1200px) {
   .shop-product-card {
     margin: 0 auto 50px auto;
   }
