@@ -4018,7 +4018,7 @@ fieldset[disabled] .form-control:hover {
 
 .video-bg-section {
   height: 365px;
-  background: #ccc url(../images/fondoe.jpg);
+  /*background: #ccc url(../images/fondoe.jpg);*/
   background-position: 50%;
   background-size: cover;
 }
@@ -10254,7 +10254,7 @@ form .input-error-2:focus {
 }
 
 .hero__wrapper--section-2 {
-	/*background: url(../assets/images/back1.jpg) 50% no-repeat*/
+	background: url(../assets/images/back1.jpg) 50% no-repeat
 }
 @media screen and (max-width:480px) {
 	.hero__wrapper--section-2 {
