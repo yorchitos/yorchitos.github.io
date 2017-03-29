@@ -15,6 +15,14 @@
 /* ---- Other ---- */
 /* ---- Media Queries Breakpoints ---- */
 /* ---- General ---- */
+
+@media screen and (min-width:1081px) {
+	.player {
+		display:none
+	}
+}
+
+
 @media (max-width: 1200px) {
   .mb-sm-30 {
     margin-bottom: 30px;
