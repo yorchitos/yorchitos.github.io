@@ -447,7 +447,7 @@
 }
 
 /* ---- Team Layouts ---- */
-@media (max-width: 1260px) {
+@media (max-width: 1200px) {
   .team-3col .t-item,
   .team-4col .t-item {
     width: 360px;
