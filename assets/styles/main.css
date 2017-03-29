@@ -10254,12 +10254,12 @@ form .input-error-2:focus {
 }
 
 .hero__wrapper--section-2 {
-	background: url(../assets/images/back1.jpg) 50% no-repeat
+	/*background: url(../assets/images/back1.jpg) 50% no-repeat*/
 }
 @media screen and (max-width:480px) {
-.hero__wrapper--section-2 {
-	height: 100vh
-}
+	.hero__wrapper--section-2 {
+		height: 100vh
+	}
 }
 
 .hero__standfirst {
