@@ -7808,7 +7808,7 @@ form .input-error-2:focus {
   position: relative;
   width: 100%;
   height: 100vh;
-  /*background: url(../images/fondoe.jpg);*/
+  background: url(../images/fondoe.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
