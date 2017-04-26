@@ -7808,9 +7808,20 @@ form .input-error-2:focus {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: url(../images/fondoe.jpg);
+  /*background: url(../images/fondoe.jpg);*/
   background-size: cover;
   background-attachment: fixed;
+}
+
+@media screen and (max-width:500px) {
+	.main-demo-hero, .fs-video-hero, .fw-video-hero, .text-slider-hero, .freelancer-hero, .agency2-hero, .animated-hero, .web-app-hero {
+	  position: relative;
+	  width: 100%;
+	  height: 100vh;
+	  background: url(../images/fondoe.jpg);
+	  background-size: cover;
+	  background-attachment: fixed;
+	}
 }
 
 .main-demo-hero .bg-overlay, .fs-video-hero .bg-overlay, .fw-video-hero .bg-overlay, .text-slider-hero .bg-overlay, .freelancer-hero .bg-overlay, .agency2-hero .bg-overlay, .animated-hero .bg-overlay, .web-app-hero .bg-overlay {
