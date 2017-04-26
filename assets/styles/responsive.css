@@ -16,9 +16,9 @@
 /* ---- Media Queries Breakpoints ---- */
 /* ---- General ---- */
 
-@media screen and (min-width:1081px) {
+@media screen and (max-width:500px) {
 	.player {
-		display:none
+		display:none;
 	}
 }
 
