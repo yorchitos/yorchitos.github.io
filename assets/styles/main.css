@@ -2983,6 +2983,9 @@ fieldset[disabled] .form-control:hover {
   /*content: url(../images/logo-light.png);*/
   content: url(../images/Tribes-Logo-White-SmallSize.png);
 }
+img.navbar-logo {
+    width: 150px;
+}
 
 .navbar-trans .navbar-logo-dark {
   /*content: url(../images/logo.png);*/
