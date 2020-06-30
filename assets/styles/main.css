@@ -2980,11 +2980,13 @@ fieldset[disabled] .form-control:hover {
 }
 
 .navbar-trans .navbar-logo {
-  content: url(../images/logo-light.png);
+  /*content: url(../images/logo-light.png);*/
+  content: url(../images/Tribes-Logo-White-SmallSize.png);
 }
 
 .navbar-trans .navbar-logo-dark {
-  content: url(../images/logo.png);
+  /*content: url(../images/logo.png);*/
+  content: url(../images/Tribes-Logo-Black-SmallSize.png);
 }
 
 .navbar-trans:not(.navbar-inverse) .navbar-nav li a:focus,
